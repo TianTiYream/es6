@@ -1,0 +1,11 @@
+### ES6常用语法
+- let和const
+- 变量的解构赋值
+- 模板字符串
+- 字符串的新增方法 includes()
+- 数组的一些扩展方法 includes() find() findIndex() keys() values() entries() flat() flatMap() Array.from()
+- 对象的一些扩展方法 Object.assign() Object.keys() Object.values() Object.entries()
+- 函数的扩展 箭头函数
+- Promise对象
+- async函数
+- Module加载
